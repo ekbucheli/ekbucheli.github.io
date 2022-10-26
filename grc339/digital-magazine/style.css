@@ -1,0 +1,108 @@
+/*CSS document*/
+
+body {
+    background-color: #fafafa; 
+    color: #1e1e1e;  
+    line-height: 160%; 
+    font-family: poppins, sans-serif;  
+    font-weight: 300;  
+    font-style: normal;
+    padding: 0rem 2rem 0rem;
+}
+
+h1{
+    margin-top: 0rem;
+}
+
+h2 {
+	color:#008080; 
+	font-size: 1.5em;
+    font-family: poppins, sans-serif;  
+    font-weight: 600;  
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+h3 {
+	font-size: 1.3em; 
+    font-family: poppins, sans-serif;  
+    font-weight: 600;  
+    font-style: normal;
+	text-transform: uppercase;
+    margin: 4px 0px;
+}
+
+p{
+    color: #1e1e1e;  
+	line-height: 160%; 
+	font-family: poppins, sans-serif;  
+    font-weight: 300;  
+    font-style: normal;
+    padding: 0rem 0rem 0.5rem;
+    margin-top: 0px;
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+.logo{
+    padding-top: 1em;
+}
+
+figure{
+        margin: 0;
+        padding-bottom: 0.5em;
+}
+
+figcaption {
+    color: #1e1e1e;  
+	line-height: 160%; 
+	font-family: poppins, sans-serif;  
+    font-weight: 300;  
+    font-style: italic;
+    padding: 0rem 0rem 3rem;
+}
+
+img {
+    width: 100%;
+    padding-top: 2em;
+}
+
+nav ul {
+    padding: 0em 0em;
+}
+nav ul li {
+    list-style-type: none;
+    font-family: poppins, sans-serif;  
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.9em;
+    font-weight: 600;
+    margin-right: 1em;
+}
+nav ul li a{
+    color:#1e1e1e;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    color: #008080; 
+}
+a {
+    color:#1e1e1e;
+    text-decoration: none;
+}
+.newarticle {
+    
+}
+hr{
+    color: #1e1e1e;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin-top: 5em;
+    padding-bottom: 1em;
+    width: 100%;
+}
